@@ -28,18 +28,6 @@ Ce portfolio a été créé en utilisant les technologies suivantes :
 
 ---
 
-## 🔧 Installation et Déploiement
-
-Si vous souhaitez cloner et exécuter ce portfolio en local, voici les étapes à suivre :
-
-### Prérequis
-
-- **Node.js** et **npm** doivent être installés sur votre machine.
-
-
-
-
-
 ## 🧩 Projets
 
 Voici quelques-uns des projets que vous pouvez découvrir dans ce portfolio :
