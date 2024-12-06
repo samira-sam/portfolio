@@ -22,7 +22,7 @@ Ce portfolio a été créé en utilisant les technologies suivantes :
 - **HTML5** – Structure de la page web
 - **CSS3** – Mise en forme et design responsive
 - **JavaScript** – Logique côté client
-- **React.js** – Framework JavaScript pour la construction d'interfaces utilisateur interactives
+- **Vue.js** – Framework JavaScript pour la construction d'interfaces utilisateur interactives
 - **Node.js** (si applicable) – Backend pour certains projets
 - **Git & GitHub** – Pour la gestion de version et le déploiement
 
